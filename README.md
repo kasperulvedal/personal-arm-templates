@@ -1,4 +1,4 @@
-# personal-arm-templates
+# My repo of ARM experimentation
 
 This repo are used for personal experimentation with ARM templates.
 
